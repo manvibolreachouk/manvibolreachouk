@@ -53,7 +53,7 @@
   
   ---
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ManvibolreachOuk&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ManvibolreachOuk&theme=vue-dark&count_private=true&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ManvibolreachOuk&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true&count_private=true" alt="My github stats" /> 
 
