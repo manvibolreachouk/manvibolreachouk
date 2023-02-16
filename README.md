@@ -1,6 +1,8 @@
  <section align = "center">
   
  ### Hello! My name is Manvibolreach Ouk.
+ 
+ Experienced software engineer with a rare combination of technical expertise and creative problem-solving abilities. Committed to continuous learning and staying up-to-date with the latest technologies to develop innovative solutions that stand out in the industry.
 
  <section>
    
@@ -65,3 +67,5 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vibolreach.m.ouk@gmail.com@gmail.com)
  
 </section>
+  
+   ![](https://api.visitorbadge.io/api/VisitorHit?user=ManvibolreachOuk&repo=github-visitors-badge&countColor=%237B1E7A)
