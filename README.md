@@ -53,7 +53,7 @@
   
   ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManvibolreachOuk&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true&count_private=true" alt="My github stats" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManvibolreachOuk&show_icons=true&hide=prs,contribs&include_all_commits=true&theme=cobalt&hide_border=true&count_private=true" alt="My github stats" /> 
 
    ---
   
