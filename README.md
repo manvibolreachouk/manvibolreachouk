@@ -8,7 +8,7 @@
    
 <p float="left">
   <img src="https://cutewallpaper.org/cdn-cgi/mirage/91b98c5373d6a01796e55b9f978389531ff4e5ebae85abd935c54ab8d42fdd46/1280/24/animation-gif/how-to-make-animated-gifs-free-tools-for-creators.gif" width="50%"  />
-  <img src="https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-superJumbo.gif" width="49%" height="285" /> 
+  <img src="https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-superJumbo.gif" width="49%" height="270" /> 
 </p>
 
 ---
