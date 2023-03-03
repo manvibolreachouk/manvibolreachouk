@@ -9,7 +9,7 @@
    ---
    
 <p float="left">
-  <img src="https://cutewallpaper.org/cdn-cgi/mirage/91b98c5373d6a01796e55b9f978389531ff4e5ebae85abd935c54ab8d42fdd46/1280/24/animation-gif/how-to-make-animated-gifs-free-tools-for-creators.gif" width="50%"  />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thisiscolossal.com%2F2018%2F08%2Fgifs-by-marcus-martinez%2F&psig=AOvVaw0lRnZQdl0wl9V5b_mOLkbX&ust=1677903935670000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjdlLL1vv0CFQAAAAAdAAAAABAE" width="50%"  />
   <img src="https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-superJumbo.gif" width="49%" height="238" /> 
 </p>
 
@@ -52,10 +52,6 @@
 </p>
   
   ---
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManvibolreachOuk&show_icons=true&hide=prs,contribs&include_all_commits=true&theme=cobalt&hide_border=true&count_private=true" alt="My github stats" /> 
-
-   ---
   
   ### Connect with me:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vibolreach
