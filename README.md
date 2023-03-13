@@ -9,7 +9,7 @@
    ---
    
 <p float="left">
-  <img src="https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-superJumbo.gif" width="49%" height="238" /> 
+  <img src="https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-superJumbo.gif" width="60%" height="300" /> 
 </p>
 
 ---
